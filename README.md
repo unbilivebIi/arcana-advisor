@@ -17,10 +17,13 @@ Requirements:
 - a 16:9 or wider resolution (1920x1080, 2560x1440, 3440x1440);
 - an English or Russian game client.
 
-## Updates
-The small "Arcana Advisor" window shows an **Update** button when a new version is out. Press it and the program downloads the new version and restarts. Your settings and recorded runs are kept.
+## The bar and the card
+A slim **Arcana Advisor** bar sits on top of the game (drag it anywhere). In Tarot Path it opens into a card with the advice: the move in big letters, then every option as *what to press → where you land → loot*.
 
-The window also has a RU/EN language switch and a button that hides the hints.
+On the bar: **RU/EN** switches the language, the **eye** hides the hints, the **×** closes the program.
+
+## Updates
+When a new version is out, an **Update** button appears on the bar. Press it and the program downloads the new version and restarts. Your settings and recorded runs are kept.
 
 ## What the hints mean
 - **Green frame** on a card or on the free die: play this one.
@@ -47,10 +50,13 @@ The window also has a RU/EN language switch and a button that hides the hints.
 - разрешение 16:9 или шире (1920x1080, 2560x1440, 3440x1440);
 - английский или русский клиент игры.
 
-## Обновление
-В маленьком окне «Arcana Advisor» появляется кнопка **Обновить**, когда выходит новая версия. Нажмите её, и программа скачает новую версию и перезапустится. Настройки и записанные забеги сохраняются.
+## Полоска и карточка
+Поверх игры видна узкая полоска **Arcana Advisor** (её можно перетащить мышкой). В Тайном пути Таро она раскрывается в карточку с советом: крупно ход, ниже все варианты в виде *что нажать → куда придёшь → лут*.
 
-В этом окне также есть переключатель языка RU/EN и кнопка, которая скрывает подсказки.
+На полоске: **RU/EN** переключает язык, **глаз** скрывает подсказки, **×** закрывает программу.
+
+## Обновление
+Когда выходит новая версия, на полоске появляется кнопка **Обновить**. Нажмите её, и программа скачает новую версию и перезапустится. Настройки и записанные забеги сохраняются.
 
 ## Что значат подсказки
 - **Зелёная рамка** на карте или бесплатном кубике: играть её.
